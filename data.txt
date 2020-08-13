@@ -1,0 +1,27 @@
+"country","continent","tasaLetalidad","crecimientoPib","pop"
+"China","Asia",3.2,1.0,1439
+"Korea Sur","Asia",6.0,-2.5,6
+"Uruguay","Americas",10.6,-5.0,4
+"Paraguay","Americas",12.3,-2.3,7
+"Mundial","Mundial",12.9,-4.9,7777
+"India","Asia",33.5,-4.5,1379
+"Costa Rica","Americas",48.8,-5.5,5
+"Israel","Asia",71.5,-6.2,9
+"El Salvador","Americas",87.7,-8.6,7
+"Rusia","Europa",103.6,-6.6,146
+"Alemania","Europa",110.3,-7.8,84
+"Argentina","Americas",111.2,-10.5,45
+"Honduras","Americas",152.1,-6.1,10
+"Colombia","Americas",264.2,-5.6,51
+"Ecuador","Americas",330.6,-9.0,18
+"Panamá","Americas",390.7,-6.5,4
+"México","Americas",410.9,-10.5,129
+"Francia","Europa",467.0,-12.5,65
+"Brasil","Americas",486.3,-9.2,212
+"USA","Americas",506.8,-8.0,331
+"Chile","Americas",535.7,-7.9,19
+"Suecia","Europa",577.0,-6.7,10
+"Italia","Europa",586.9,-12.8,60
+"España","Europa",617.0,-12.8,47
+"Perú","Americas",651.5,-13.0,4
+"UK","Europa",686.7,-10.2,68
